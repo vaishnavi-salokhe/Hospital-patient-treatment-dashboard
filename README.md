@@ -14,7 +14,7 @@ The purpose of this project is to help a hospital operations manager understand:
 
 ## Dashboard Preview
 
-![Dashboard preview](dashboard-preview.png)
+![Dashboard preview](Hospital%20Patient%20Treatment%20dashboard-preview.png)
 
 ## Tools Used
 
